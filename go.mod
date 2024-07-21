@@ -7,9 +7,9 @@ require (
 	github.com/awslabs/aws-lambda-go-api-proxy v0.13.2
 	github.com/gin-contrib/i18n v0.0.1
 	github.com/gin-gonic/gin v1.8.1
+	github.com/hashicorp/go-retryablehttp v0.7.2
 	github.com/jarylc/go-chrono/v2 v2.4.2
 	github.com/mattermost/mattermost-plugin-apps v1.2.0
-	github.com/hashicorp/go-retryablehttp v0.7.2
 )
 
 require (
@@ -106,13 +106,13 @@ require (
 	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e // indirect
 	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e // indirect
 	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.3.7
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
 	google.golang.org/api v0.88.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20220720214146-176da50484ac // indirect
 	google.golang.org/grpc v1.48.0 // indirect
-	google.golang.org/protobuf v1.28.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/ini.v1 v1.66.6 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
