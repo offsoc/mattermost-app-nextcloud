@@ -7,9 +7,9 @@ require (
 	github.com/awslabs/aws-lambda-go-api-proxy v0.13.2
 	github.com/gin-contrib/i18n v0.0.1
 	github.com/gin-gonic/gin v1.8.1
+	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/jarylc/go-chrono/v2 v2.4.2
 	github.com/mattermost/mattermost-plugin-apps v1.2.0
-	github.com/hashicorp/go-retryablehttp v0.7.2
 )
 
 require (
@@ -34,7 +34,7 @@ require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/dyatlov/go-opengraph v0.0.0-20210112100619-dae8665a5b09 // indirect
-	github.com/fatih/color v1.13.0 // indirect
+	github.com/fatih/color v1.16.0 // indirect
 	github.com/francoispqt/gojay v1.2.13 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/go-asn1-ber/asn1-ber v1.5.4 // indirect
@@ -54,7 +54,7 @@ require (
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	github.com/hashicorp/go-getter v1.5.5 // indirect
-	github.com/hashicorp/go-hclog v1.2.1 // indirect
+	github.com/hashicorp/go-hclog v1.6.3 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/go-plugin v1.4.4 // indirect
 	github.com/hashicorp/go-safetemp v1.0.0 // indirect
@@ -71,8 +71,8 @@ require (
 	github.com/mattermost/logr/v2 v2.0.15 // indirect
 	github.com/mattermost/mattermost-plugin-api v0.0.22-0.20211210183909-beb4761e4bd3 // indirect
 	github.com/mattermost/mattermost-server/v6 v6.6.0
-	github.com/mattn/go-colorable v0.1.12 // indirect
-	github.com/mattn/go-isatty v0.0.14 // indirect
+	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/minio/md5-simd v1.1.2 // indirect
 	github.com/minio/minio-go/v7 v7.0.28 // indirect
 	github.com/minio/sha256-simd v1.0.0 // indirect
@@ -105,8 +105,8 @@ require (
 	go.uber.org/zap v1.17.0 // indirect
 	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e // indirect
 	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e // indirect
-	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/sys v0.20.0 // indirect
+	golang.org/x/text v0.3.7
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
 	google.golang.org/api v0.88.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
